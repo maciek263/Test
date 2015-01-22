@@ -7,3 +7,6 @@ dsafi
 iew
 
 hello world!!!
+
+
+3 modyfikacja pliku
